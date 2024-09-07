@@ -1,4 +1,5 @@
 package projetospessoais.listachatgpt.lista1;
+
 import java.util.*;
 
 public class E2SomandoNumerosInteriros {
