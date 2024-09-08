@@ -1,4 +1,4 @@
-package devdojo._3lacosderepeticao._1lacoswhiles;
+package academy.devdojo.logicadeprogramacao._3lacosderepeticao._1lacoswhiles;
 
 public class Aula28WhileAula01 {
     public static void main(String[] args) {

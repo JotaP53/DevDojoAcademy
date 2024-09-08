@@ -1,4 +1,4 @@
-package devdojo._2estruturascondicionais._2switchcase;
+package academy.devdojo.logicadeprogramacao._2estruturascondicionais._2switchcase;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package devdojo._3lacosderepeticao._3for;
+package academy.devdojo.logicadeprogramacao._3lacosderepeticao._3for;
 
 import java.util.Scanner;
 

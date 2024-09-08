@@ -1,4 +1,4 @@
-package devdojo._2estruturascondicionais._1ifelse;
+package academy.devdojo.logicadeprogramacao._2estruturascondicionais._1ifelse;
 
 public class Aula17CondicionaisAula05ImpostoDeRenda {
     public static void main(String[] args) {

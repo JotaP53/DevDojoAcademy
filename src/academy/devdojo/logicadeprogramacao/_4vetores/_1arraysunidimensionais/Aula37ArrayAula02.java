@@ -1,4 +1,4 @@
-package academy.devdojo.logicadeprogramacao._4vetores._1arrays;
+package academy.devdojo.logicadeprogramacao._4vetores._1arraysunidimensionais;
 
 public class Aula37ArrayAula02 {
     public static void main(String[] args) {

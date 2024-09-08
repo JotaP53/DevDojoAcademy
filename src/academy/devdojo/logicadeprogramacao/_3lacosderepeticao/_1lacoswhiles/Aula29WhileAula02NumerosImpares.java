@@ -1,4 +1,4 @@
-package devdojo._3lacosderepeticao._1lacoswhiles;
+package academy.devdojo.logicadeprogramacao._3lacosderepeticao._1lacoswhiles;
 import java.util.*;
 
 public class Aula29WhileAula02NumerosImpares {

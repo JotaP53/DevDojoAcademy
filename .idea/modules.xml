@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/curso-de-logica-dev-dojo.iml" filepath="$PROJECT_DIR$/curso-de-logica-dev-dojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-dojo-academy.iml" filepath="$PROJECT_DIR$/dev-dojo-academy.iml" />
     </modules>
   </component>
 </project>

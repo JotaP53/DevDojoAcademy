@@ -1,4 +1,4 @@
-package devdojo._2estruturascondicionais._1ifelse;/*
+package academy.devdojo.logicadeprogramacao._2estruturascondicionais._1ifelse;/*
 Dado um determinado número inteiro, imprima e ele é impar ou par
  */
 

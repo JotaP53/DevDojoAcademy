@@ -1,4 +1,4 @@
-package devdojo._3lacosderepeticao._2lacosdowhile;
+package academy.devdojo.logicadeprogramacao._3lacosderepeticao._2lacosdowhile;
 
 import java.util.Scanner;
 

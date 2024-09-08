@@ -1,4 +1,4 @@
-package devdojo._2estruturascondicionais._1ifelse;/*
+package academy.devdojo.logicadeprogramacao._2estruturascondicionais._1ifelse;/*
 Dado um salário...
 - Se o salário for maior que 4500, imprima 30% do valor
 - Senão, imprima 15% do valor

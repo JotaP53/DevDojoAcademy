@@ -1,4 +1,4 @@
-package devdojo.scanner;
+package academy.devdojo.logicadeprogramacao.scanner;
 
 import java.util.Scanner;
 

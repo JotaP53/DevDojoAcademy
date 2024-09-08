@@ -1,4 +1,4 @@
-package devdojo._1variaveis;
+package academy.devdojo.logicadeprogramacao._1variaveis;
 
 public class Aula11ReutilizandoVariaveis {
     public static void main(String[] args) {
