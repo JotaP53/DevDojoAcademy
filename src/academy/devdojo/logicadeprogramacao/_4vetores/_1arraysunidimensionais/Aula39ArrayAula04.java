@@ -1,4 +1,4 @@
-package devdojo._4vetores._1arrays;
+package academy.devdojo.logicadeprogramacao._4vetores._1arrays;
 import java.util.*;
 public class Aula39ArrayAula04 {
     public static void main(String[] args) {
